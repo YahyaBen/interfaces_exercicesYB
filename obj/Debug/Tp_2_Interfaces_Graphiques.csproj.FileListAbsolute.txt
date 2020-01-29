@@ -1,0 +1,14 @@
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\bin\Debug\Tp_2_Interfaces_Graphiques.exe.config
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\bin\Debug\Tp_2_Interfaces_Graphiques.exe
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\bin\Debug\Tp_2_Interfaces_Graphiques.pdb
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.csprojAssemblyReference.cache
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.GalculeVoyage.resources
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.Properties.Resources.resources
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.csproj.GenerateResource.cache
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.exe
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.pdb
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.Incrementation.resources
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.Chronometre.resources
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.Chronometre_Connecté.resources
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.Interfaces.resources
+C:\Users\Hyrku\source\repos\Tp_2_Interfaces_Graphiques\obj\Debug\Tp_2_Interfaces_Graphiques.ListBox.resources
